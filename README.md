@@ -18,3 +18,5 @@ So, in the best-case scenario, provided that:
 
 the browser supports WebSocket (97% of all browsers in 2020)
 there is no element (proxy, firewall, …) preventing WebSocket connections between the client and the server
+
+For more info on socket io see the documentation here: https://socket.io/
